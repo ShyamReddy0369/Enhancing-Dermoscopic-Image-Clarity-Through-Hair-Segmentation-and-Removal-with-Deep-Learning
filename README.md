@@ -1,3 +1,5 @@
+This project focuses on enhancing dermoscopic images for improved skin lesion analysis. It employs advanced image processing and deep learning techniques to remove artifacts like hair and noise while preserving critical skin texture. The goal is to create clearer, high-quality images that aid in better diagnosis and classification of skin diseases.
+
 Key Features
 ✅ Image Preprocessing & Enhancement
 
