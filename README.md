@@ -6,19 +6,23 @@ Key Features
 Noise reduction using Gaussian, Median, and Bilateral filters
 Hair removal using segmentation and inpainting
 Contrast enhancement for better visibility
+
 ✅ Data Augmentation
 
 Random flipping, rotation, scaling, and blurring
 Gaussian noise addition and contrast adjustments
 Ensures a diverse dataset for deep learning models
+
 ✅ Image Quality Assessment
 
 PSNR (Peak Signal-to-Noise Ratio) to measure image clarity
 SSIM (Structural Similarity Index) to evaluate structure preservation
+
 ✅ Visualization & Comparison
 
 Side-by-side visualization of original, augmented, and enhanced images
 Helps in analyzing the effectiveness of different filtering techniques
+
 ✅ Deep Learning Integration (Future Scope)
 
 Implement CNN-based artifact removal models
